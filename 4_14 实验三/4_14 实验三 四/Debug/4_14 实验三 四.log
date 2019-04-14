@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/4/14 21:59:42。
+     1>项目“d:\documents\visual studio 2013\Projects\4_14 实验三 四\4_14 实验三 四\4_14 实验三 四.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\AE\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "实验.cpp"
+         实验.cpp
+       Link:
+         E:\AE\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\documents\visual studio 2013\Projects\4_14 实验三 四\Debug\4_14 实验三 四.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\documents\visual studio 2013\Projects\4_14 实验三 四\Debug\4_14 实验三 四.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\documents\visual studio 2013\Projects\4_14 实验三 四\Debug\4_14 实验三 四.lib" /MACHINE:X86 "Debug\实验.obj"
+     1>实验.obj : error LNK2001: 无法解析的外部符号 "private: static int Student::count" (?count@Student@@0HA)
+     1>实验.obj : error LNK2001: 无法解析的外部符号 "private: static int Student::mathTotalScore" (?mathTotalScore@Student@@0HA)
+     1>实验.obj : error LNK2001: 无法解析的外部符号 "private: static int Student::englishTotalScore" (?englishTotalScore@Student@@0HA)
+     1>d:\documents\visual studio 2013\Projects\4_14 实验三 四\Debug\4_14 实验三 四.exe : fatal error LNK1120: 3 个无法解析的外部命令
+     1>已完成生成项目“d:\documents\visual studio 2013\Projects\4_14 实验三 四\4_14 实验三 四\4_14 实验三 四.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.80
