@@ -1,0 +1,55 @@
+﻿生成启动时间为 2019/4/16 23:27:18。
+     1>项目“d:\documents\visual studio 2013\Projects\4-16 之运算符\4-16 之运算符\4-16 之运算符.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\AE\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(12): error C2065: “Time”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(12): error C2146: 语法错误: 缺少“;”(在标识符“t1”的前面)
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(12): error C2065: “t1”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(13): error C2065: “Time”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(13): error C2146: 语法错误: 缺少“;”(在标识符“t2”的前面)
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(13): error C3861: “t2”:  找不到标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(14): error C2065: “Time”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“t3”的前面)
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(14): error C3861: “t3”:  找不到标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(15): error C2065: “Time”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“t4”的前面)
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(15): error C3861: “t4”:  找不到标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(16): error C2065: “Time”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(16): error C2146: 语法错误: 缺少“;”(在标识符“t5”的前面)
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(16): error C3861: “t5”:  找不到标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(19): error C2065: “t1”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(19): error C2228: “.printUniversal”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(21): error C2065: “t1”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(21): error C2228: “.printStandard”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(24): error C2065: “t2”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(24): error C2228: “.printUniversal”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(26): error C2065: “t2”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(26): error C2228: “.printStandard”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(29): error C2065: “t3”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(29): error C2228: “.printUniversal”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(31): error C2065: “t3”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(31): error C2228: “.printStandard”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(34): error C2065: “t4”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(34): error C2228: “.printUniversal”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(36): error C2065: “t4”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(36): error C2228: “.printStandard”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(39): error C2065: “t5”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(39): error C2228: “.printUniversal”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(41): error C2065: “t5”: 未声明的标识符
+     1>d:\documents\visual studio 2013\projects\4-16 之运算符\4-16 之运算符\源.cpp(41): error C2228: “.printStandard”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>已完成生成项目“d:\documents\visual studio 2013\Projects\4-16 之运算符\4-16 之运算符\4-16 之运算符.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.95
